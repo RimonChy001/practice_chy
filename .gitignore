@@ -1,0 +1,8 @@
+# build folder
+build/
+
+# secret text
+secret.text
+
+# temp log
+*.log
